@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EnigmaDev
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning to code in python
+- 🌱 I’m currently coding python and rust
 - 📫 you can reach me through twitter just search for "Coderkuttan"
 
 <!---
